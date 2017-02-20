@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #3B7EA1;
+  color: #4484ce;
   outline: none;
 }
 h1,
@@ -54,7 +54,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #3B7EA1;
+  background-color: #4484ce;
   color: white;
 }
 hr.star-primary {
@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #3B7EA1;
+  background: #4484ce;
   color: white;
 }
 header .container {
@@ -129,7 +129,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #3B7EA1;
+  color: #4484ce;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
@@ -138,13 +138,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #3B7EA1;
+  background: #4484ce;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #3B7EA1;
+  background: #4484ce;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -154,9 +154,9 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #3B7EA1;
+  background-color: #4484ce;
   color: white;
-  border-color: #3B7EA1;
+  border-color: #4484ce;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -186,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #3B7EA1;
+  background: #4484ce;
   color: white;
 }
 @media (max-width: 767px) {
@@ -249,7 +249,7 @@ section.success {
   position: relative;
   margin-bottom: 0;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid #3B7EA1;
+  border-bottom: 1px solid #4484ce;
 }
 .floating-label-form-group input,
 .floating-label-form-group textarea {
@@ -282,17 +282,17 @@ section.success {
 }
 .floating-label-form-group:not(:first-child) {
   padding-left: 14px;
-  border-left: 1px solid #3B7EA1;
+  border-left: 1px solid #4484ce;
 }
 .floating-label-form-group-with-value label {
   top: 0;
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #3B7EA1;
+  color: #4484ce;
 }
 form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #3B7EA1;
+  border-top: 1px solid #4484ce;
 }
 footer {
   color: white;
@@ -323,7 +323,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #3B7EA1;
+  color: #4484ce;
   background: white;
   border: solid 2px white;
 }
@@ -371,8 +371,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #3B7EA1;
-  border-color: #3B7EA1;
+  background-color: #4484ce;
+  border-color: #4484ce;
   font-weight: 700;
 }
 .btn-success:hover,
@@ -404,11 +404,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #3B7EA1;
-  border-color: #3B7EA1;
+  background-color: #4484ce;
+  border-color: #4484ce;
 }
 .btn-success .badge {
-  color: #3B7EA1;
+  color: #4484ce;
   background-color: white;
 }
 .btn-social {
